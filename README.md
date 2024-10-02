@@ -1,0 +1,2 @@
+# EngSoftware_Strategy_Pattern
+Atividade
